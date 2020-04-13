@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aR9IHvCSkfo5sfFpQ8MqOZAQPM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586687457421</updated>
       <workItem from="1586687462725" duration="1431000" />
+      <workItem from="1586786511271" duration="1121000" />
     </task>
     <servers />
   </component>
@@ -48,5 +52,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1586688875251" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1586786754580">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1586786754580" />
   </component>
 </project>

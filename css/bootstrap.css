@@ -194,6 +194,9 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
+  width:25%;
+  display: block;
+  margin: auto;
 }
 
 svg {
@@ -10222,3 +10225,11 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+#serve{
+  transform: rotate(270deg);
+  vertical-align: middle;
+  border-style: none;
+  width:25%;
+  display: block;
+  margin: auto;
+}
