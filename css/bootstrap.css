@@ -10189,6 +10189,7 @@ a.text-dark:hover, a.text-dark:focus {
   }
   body {
     min-width: 992px !important;
+    padding: 15%;
   }
   .container {
     min-width: 992px !important;
