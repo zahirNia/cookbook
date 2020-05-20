@@ -10,12 +10,12 @@
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Custom styles for this template -->
-  <link href="css/blog-post.css" rel="stylesheet">
   <!-- BTSTRP-social-->
   <link rel="stylesheet" href="node_modules/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap.css">
   <!-- Font Awesome -->
   <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.css">
+  <!-- Custom styles for this template -->
+  <link href="css/blog-post.css" rel="stylesheet">
 
   <title>Mahin recipes</title>
 
@@ -51,22 +51,24 @@
   <!-- Page Content -->
   <div class="container">
 
-    <!-- recipe name, cook -->
+    <!-- recipe name, chef -->
     <div class="row">
-      <div class="col-12 media">
-        <img class="d-flex mr-3 img-thumbnail align-self-center rounded" src="images/ingredients.jpg" alt="ingredients" width=15%>
-        <div class="media-body">
-          <!-- Title -->
-          <h1 class="mt-0">Mirza Ghassemi</h1>
-          <!-- Author -->
-          <p class="lead"> by <a href="https://www.facebook.com/">Mahin Hekmatian</a></p>
+      <div class="col-12">
+          <div class="media">
+            <img class="d-flex mr-3 img-thumbnail align-self-center rounded hidden-xs" src="images/chef.jpg" alt="chef">
+            <div class="media-body">
+              <!-- Title -->
+              <h1 class="mt-0">Mirza Ghassemi</h1>
+              <!-- Author -->
+              <p class="lead"> by <a href="https://www.facebook.com/">Mahin Hekmatian</a></p>
+            </div>
         </div>
       </div>
     </div>
 
     <!-- Facts & Figures => portion, time, etc. -->
     <div class="row">
-        <div class="col-12 table-responsive">
+        <div class="table-responsive d-inline-block">
           <h2>Facts &amp; Figures</h2>
             <table class="table table-striped table-bordered text-center">
               <thead class="thead-dark">
@@ -138,56 +140,75 @@
         </table>
       </div>
     </div>
+    <!-- ingredients image for xs -->
+    <div class="row">
+        <img class="d-flex mr-3 img-thumbnail align-self-center vw-100 visible-xs" src="images/ingredients.jpg" alt="ingredients">
+    </div>
+
 
     <!-- instructions -->
     <div class="row">
-      <div class="col-12">
-        <h2>Instructions in 5 steps</h2>
+        <div class="col-12">
+            <h2>Instructions in 5 steps</h2>
+            <div class="media">
+              <img class="d-flex mr-3 img-thumbnail align-self-center hidden-xs" src="images/eggplants_in_oven.jpg" alt="eggplants_in_oven">
+              <div class="media-body">
+                <h3 class="mt-0">Step 1</h3>
+                <P>Originally the eggplants are supposed to be grilled on fire. This gives them a unique taste. I used my oven instead like below. Let them inside for 45 min at 170-180°C.</P>
+              </div>
+            </div>
+            <div>
+                <img class="d-flex mr-3 img-thumbnail align-self-center visible-xs vw-100" src="images/eggplants_in_oven.jpg" alt="eggplants_in_oven">
+            </div>
 
-        <div class="media">
-          <img class="d-flex mr-3 img-thumbnail align-self-center" src="images/eggplants_in_oven.jpg" alt="eggplants_in_oven">
-          <div class="media-body">
-            <h3 class="mt-0">Step 1</h3>
-            <P>Originally the eggplants are supposed to be grilled on fire. This gives them a unique taste. I used my oven instead like below. Let them inside for 45 min at 170-180°C.</P>
-          </div>
+            <div class="media">
+              <img class="d-flex mr-3 img-thumbnail align-self-center hidden-xs" src="images/ingredients_ready_to_mix.jpg" alt="ingredients_ready_to_mix">
+              <div class="media-body">
+                <h3 class="mt-0">Step 2</h3>
+                <P>After 45 minutes, let them cool down. In the meantime, cut your onions and garlic and chop the tomatoes (maybe use a mixer but don't over do it!). Your result should look something like this.</P>
+                <P>Its should be now fairly easy to peel the eggplants off which we do in this step and then using a mixer or a simple knife to chop the already peeled eggplants.</P>
+              </div>
+            </div>
+            <div>
+                <img class="d-flex mr-3 img-thumbnail align-self-center visible-xs vw-100" src="images/ingredients_ready_to_mix.jpg" alt="ingredients_ready_to_mix">
+            </div>
+
+            <div class="media">
+              <img class="d-flex mr-3 img-thumbnail align-self-center hidden-xs" src="images/base_ready.jpg" alt="base_ready">
+              <div class="media-body">
+                <h3 class="mt-0">Step 3</h3>
+                <P>Now we start frying everything! Start with onions and garlic, after 5 minutes, add the eggplants. When the mixture got a bit golden, add the tomatoes, bring the stove lower and put a lid on top of the pan. Let it cook for another 10 minutes. You’ll have something like this at the end of this step.</P>
+              </div>
+            </div>
+            <div>
+                <img class="d-flex mr-3 img-thumbnail align-self-center visible-xs vw-100" src="images/base_ready.jpg" alt="base_ready">
+            </div>
+
+            <div class="media">
+              <img class="d-flex mr-3 img-thumbnail align-self-center hidden-xs" src="images/eggs_added.jpg" alt="eggs_added">
+              <div class="media-body">
+                <h3 class="mt-0">Step 4</h3>
+                <P>Break and add the eggs! Before adding the eggs make some placeholders so they don't spread all over as shown in the picture below. Afterwards put the lid on top of the pan again. Let it cook for another 5-10 minutes. </P>
+              </div>
+            </div>
+            <div>
+                <img class="d-flex mr-3 img-thumbnail align-self-center visible-xs vw-100" src="images/eggs_added.jpg" alt="eggs_added">
+            </div>
+
+            <div class="media">
+              <img class="d-flex mr-3 img-thumbnail align-self-center hidden-xs" src="images/serve.jpg" alt="serve">
+              <div class="media-body">
+                <h3 class="mt-0">Step 5</h3>
+                <P>And finally Mirza Ghassemi is ready to serve! Maybe add some parsley on the side to decorate it like I did. Bon Appetit!</P>
+              </div>
+            </div>
+            <div>
+                <img class="d-flex mr-3 img-thumbnail align-self-center visible-xs vw-100" src="images/serve.jpg" alt="serve">
+            </div>
+
+            <hr>
+
         </div>
-
-        <div class="media">
-          <img class="d-flex mr-3 img-thumbnail align-self-center" src="images/ingredients_ready_to_mix.jpg" alt="ingredients_ready_to_mix">
-          <div class="media-body">
-            <h3 class="mt-0">Step 2</h3>
-            <P>After 45 minutes, let them cool down. In the meantime, cut your onions and garlic and chop the tomatoes (maybe use a mixer but don't over do it!). Your result should look something like this.</P>
-            <P>Its should be now fairly easy to peel the eggplants off which we do in this step and then using a mixer or a simple knife to chop the already peeled eggplants.</P>
-          </div>
-        </div>
-
-        <div class="media">
-          <img class="d-flex mr-3 img-thumbnail align-self-center" src="images/base_ready.jpg" alt="base_ready">
-          <div class="media-body">
-            <h3 class="mt-0">Step 3</h3>
-            <P>Now we start frying everything! Start with onions and garlic, after 5 minutes, add the eggplants. When the mixture got a bit golden, add the tomatoes, bring the stove lower and put a lid on top of the pan. Let it cook for another 10 minutes. You’ll have something like this at the end of this step.</P>
-          </div>
-        </div>
-
-        <div class="media">
-          <img class="d-flex mr-3 img-thumbnail align-self-center" src="images/eggs_added.jpg" alt="base_ready">
-          <div class="media-body">
-            <h3 class="mt-0">Step 4</h3>
-            <P>Break and add the eggs! Before adding the eggs make some placeholders so they don't spread all over as shown in the picture below. Afterwards put the lid on top of the pan again. Let it cook for another 5-10 minutes. </P>
-          </div>
-        </div>
-
-        <div class="media">
-          <img class="d-flex mr-3 img-thumbnail align-self-center" src="images/serve.jpg" id="serve" alt="serve">
-          <div class="media-body">
-            <h3 class="mt-0">Step 5</h3>
-            <P>And finally Mirza Ghassemi is ready to serve! Maybe add some parsley on the side to decorate it like I did. Bon Appetit!</P>
-          </div>
-        </div>
-
-        <hr>
-
-      </div>
     </div>
 
     <!-- quote -->
