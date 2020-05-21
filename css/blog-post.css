@@ -11,3 +11,19 @@ body {
 img {
     width: 20vw;
 }
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.carousel-control-prev {
+    display: none;
+}
+
+#carousel-button{
+    display: none;
+}
+
+.carousel-item img {
+}

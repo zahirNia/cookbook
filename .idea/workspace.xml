@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a8fcdf-578b-4091-84b1-cd40cdf95aaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/a_soup_recipe_from_the_north_joanna.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mirza_ghassemi_mahin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blog-post.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blog-post.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/base_ready.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/eggplants_in_oven.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/eggs_added.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ingredients.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ingredients_ready_to_mix.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/serve.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirza_ghassemi.html" beforeDir="false" afterPath="$PROJECT_DIR$/carrot_cake_alex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/original/index_original.html" beforeDir="false" afterPath="$PROJECT_DIR$/original/index_original.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +43,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learning/202005-frontend-web-UI/conFusion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -40,6 +53,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sasan zahirnia\Desktop\my-github\cookbook" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sasan zahirnia\Desktop\Coding_updated_in_repo\cookbook\original" />
     </key>
@@ -63,7 +79,8 @@
       <workItem from="1588684925022" duration="2654000" />
       <workItem from="1588688574760" duration="57000" />
       <workItem from="1589900559096" duration="13073000" />
-      <workItem from="1590009205825" duration="5063000" />
+      <workItem from="1590009205825" duration="5402000" />
+      <workItem from="1590054654199" duration="12558000" />
     </task>
     <servers />
   </component>
