@@ -17,13 +17,16 @@ img {
     filter: invert(100%);
 }
 
-.carousel-control-prev {
-    display: none;
-}
-
-#carousel-button{
-    display: none;
-}
-
 .carousel-item img {
+    width: 100vw;
+}
+
+#carousel-button {
+    display: none;
+}
+
+@media (min-width: 576px) {
+    .carousel-item img {
+        width: auto;
+    }
 }
