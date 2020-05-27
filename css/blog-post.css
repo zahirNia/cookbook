@@ -12,17 +12,20 @@ img {
     width: 20vw;
 }
 
+.carousel {
+    width: 90vw;
+    height: 80vh;
+}
+
+.carousel-inner .carousel-item a img {
+    height: 80vh;
+    width: auto;
+    margin: 0 auto;
+}
+
 .carousel-control-next,
 .carousel-control-prev {
     filter: invert(100%);
-}
-
-.carousel-item img {
-    width: 100vw;
-}
-
-#carousel-button {
-    display: none;
 }
 
 @media (min-width: 576px) {

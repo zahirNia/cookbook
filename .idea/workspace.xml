@@ -3,9 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="08a8fcdf-578b-4091-84b1-cd40cdf95aaf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a_soup_recipe_from_the_north_joanna.html" beforeDir="false" afterPath="$PROJECT_DIR$/a_soup_recipe_from_the_north_joanna.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrot_cake_alex.html" beforeDir="false" afterPath="$PROJECT_DIR$/carrot_cake_alex.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/blog-post.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blog-post.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mirza_ghessemie_mahin/base_ready.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mirza_ghassemie_mahin/base_ready.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mirza_ghessemie_mahin/chef.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mirza_ghassemie_mahin/chef.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mirza_ghessemie_mahin/eggplants_in_oven.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mirza_ghassemie_mahin/eggplants_in_oven.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mirza_ghessemie_mahin/eggs_added.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mirza_ghassemie_mahin/eggs_added.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mirza_ghessemie_mahin/ingredients.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mirza_ghassemie_mahin/ingredients.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mirza_ghessemie_mahin/ingredients_ready_to_mix.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mirza_ghassemie_mahin/ingredients_ready_to_mix.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mirza_ghessemie_mahin/ingredients_size_fitted.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mirza_ghassemie_mahin/ingredients_size_fitted.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mirza_ghessemie_mahin/serve.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mirza_ghassemie_mahin/serve.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mirza_ghassemi_mahin.html" beforeDir="false" afterPath="$PROJECT_DIR$/mirza_ghassemi_mahin.html" afterDir="false" />
     </list>
@@ -73,7 +79,9 @@
       <workItem from="1589900559096" duration="13073000" />
       <workItem from="1590009205825" duration="5402000" />
       <workItem from="1590054654199" duration="15776000" />
-      <workItem from="1590144780788" duration="2172000" />
+      <workItem from="1590144780788" duration="3005000" />
+      <workItem from="1590432602748" duration="197000" />
+      <workItem from="1590586829860" duration="6333000" />
     </task>
     <servers />
   </component>
@@ -81,10 +89,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1288" y="262" key="FileChooserDialogImpl" timestamp="1588688629321">
-      <screen x="-1920" y="109" width="1920" height="1080" />
+    <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1590432777315">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="-1288" y="262" key="FileChooserDialogImpl/0.0.1280.720/-1920.109.1920.1080@-1920.109.1920.1080" timestamp="1588688629321" />
+    <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720/-1920.109.1920.1080@0.0.1280.720" timestamp="1590432777315" />
     <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588329899961" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1586786754580">
       <screen x="0" y="0" width="1280" height="720" />
