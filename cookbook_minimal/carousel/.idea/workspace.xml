@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08a8fcdf-578b-4091-84b1-cd40cdf95aaf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/carousel/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/carousel/carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel/carousel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/carousel/carousel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aR9IHvCSkfo5sfFpQ8MqOZAQPM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sasan zahirnia\Desktop\my-github\cookbook" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sasan zahirnia\Desktop\Coding_updated_in_repo\cookbook\original" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08a8fcdf-578b-4091-84b1-cd40cdf95aaf" name="Default Changelist" comment="" />
+      <created>1586687457421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586687457421</updated>
+      <workItem from="1586687462725" duration="1431000" />
+      <workItem from="1586786511271" duration="3408000" />
+      <workItem from="1586895336143" duration="3403000" />
+      <workItem from="1587064944647" duration="482000" />
+      <workItem from="1588329057645" duration="1278000" />
+      <workItem from="1588445488789" duration="4138000" />
+      <workItem from="1588684925022" duration="2654000" />
+      <workItem from="1588688574760" duration="57000" />
+      <workItem from="1589900559096" duration="13073000" />
+      <workItem from="1590009205825" duration="5402000" />
+      <workItem from="1590054654199" duration="15776000" />
+      <workItem from="1590144780788" duration="3005000" />
+      <workItem from="1590432602748" duration="197000" />
+      <workItem from="1590586829860" duration="8502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1590432777315">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="-1288" y="262" key="FileChooserDialogImpl/0.0.1280.720/-1920.109.1920.1080@-1920.109.1920.1080" timestamp="1588688629321" />
+    <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720/-1920.109.1920.1080@0.0.1280.720" timestamp="1590432777315" />
+    <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1588329899961" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1586786754580">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1586786754580" />
+  </component>
+</project>
