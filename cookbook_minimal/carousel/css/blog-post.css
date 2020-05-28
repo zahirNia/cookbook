@@ -1,0 +1,35 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/template-overviews/blog-post)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+body {
+  margin: 1%;
+  margin-top: 0px;
+}
+
+img {
+    width: 20vw;
+}
+
+.carousel {
+    width: 90vw;
+    height: 80vh;
+}
+
+.carousel-inner .carousel-item a img {
+    height: 80vh;
+    width: auto;
+    margin: 0 auto;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+@media (min-width: 576px) {
+    .carousel-item img {
+        width: auto;
+    }
+}
