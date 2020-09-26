@@ -29,11 +29,11 @@ img {
 }
 
 @media screen and (max-width: 768px) {
-    .hidden-xs img {
+    .hidden-at-xs img {
         display: none;
     }
 
-    .visible-xs img {
+    .visible-at-xs img {
         display: inline-block;
     }
 }
