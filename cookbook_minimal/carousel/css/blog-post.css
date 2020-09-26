@@ -28,8 +28,12 @@ img {
     filter: invert(100%);
 }
 
-@media (min-width: 576px) {
-    .carousel-item img {
-        width: auto;
+@media screen and (max-width: 768px) {
+    .hidden-xs img {
+        display: none;
+    }
+
+    .visible-xs img {
+        display: inline-block;
     }
 }
