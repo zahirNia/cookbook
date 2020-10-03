@@ -27,13 +27,3 @@ img {
 .carousel-control-prev {
     filter: invert(100%);
 }
-
-@media screen and (max-width: 768px) {
-    .media img {
-        display: none;
-    }
-
-    .under_media img {
-        display: block;
-    }
-}
